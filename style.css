@@ -7,3 +7,9 @@
     src: local("Pixelout") url(fonts/Pixelout.ttf);
     color: chartreuse;
 }
+
+.h2 {
+    font-family: "determination";
+    src: local("determination") url(fonts/determination.ttf);
+    color: chartreuse;
+}
