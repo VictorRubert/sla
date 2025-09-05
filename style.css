@@ -1,0 +1,9 @@
+.body {
+    background-color: #0000;
+}
+
+.h1 {
+    font-family: "Pixelout";
+    src: local("Pixelout") url(fonts/Pixelout.ttf);
+    color: chartreuse;
+}
